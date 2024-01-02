@@ -1,0 +1,23 @@
+.background{
+    background-color: hsl(218, 23%, 16%);
+    height: calc(100vh - 0.1px);
+}
+.wrapper{
+    background-color: hsl(217, 19%, 24%);
+}
+.title{
+    color: hsl(150, 100%, 66%);
+}
+.advice {
+    color: hsl(193, 38%, 86%);
+}
+.line, .line2 {
+    background-color: hsl(193, 38%, 86%);
+}
+.btn-bg{
+    background-color: rgb(82, 255, 168);
+    color: #00ffff;
+}
+.btn-bg:hover{
+    box-shadow: 0 0 35px 8px rgba(82, 255, 168, 0.4);
+}
